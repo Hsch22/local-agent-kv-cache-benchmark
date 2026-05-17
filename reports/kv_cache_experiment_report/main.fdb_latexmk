@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1778978972.09778 "main.xdv" "main.pdf" "main" 1778978972.38655 0
-  "main.xdv" 1778978972.05526 145128 558802346b94b37e4780164366ab794c "xelatex"
+["xdvipdfmx"] 1778979626.213 "main.xdv" "main.pdf" "main" 1778979626.49139 0
+  "main.xdv" 1778979626.16808 146144 0e34ed38dd57cb1bf76529052a3a8fdb "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1778978971.37083 "main.tex" "main.xdv" "main" 1778978972.3858 0
+["xelatex"] 1778979625.46516 "main.tex" "main.xdv" "main" 1778979626.49064 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -134,9 +134,9 @@
   "figures/report_memory_by_strategy.pdf" 1778898302.18769 35078 931503c5a1e47250a270d43d10fbd306 ""
   "figures/report_speedup_by_length.pdf" 1778836960.9739 38484 384c7f85c2368f54fc8aea01a691d6d5 ""
   "figures/report_ttft_by_length.pdf" 1778836960.97438 39977 6da62009abb23a093a53343b8fc4dd8e ""
-  "main.aux" 1778978972.05416 6740 5461470f6d734cbc29dc3c96f539396c "xelatex"
-  "main.out" 1778978972.05478 1130 406fd701e7fd747889046f9ae75ee4c0 "xelatex"
-  "main.tex" 1778978967.25284 24838 0968347f51ec606ed06d293779bb3faf ""
+  "main.aux" 1778979626.16694 6623 ecbd085e48a178f75bff0f7c7a94219f "xelatex"
+  "main.out" 1778979626.16757 1130 406fd701e7fd747889046f9ae75ee4c0 "xelatex"
+  "main.tex" 1778979619.70607 25002 bb04ad2c73f26b588b3e8837172a4bdf ""
   (generated)
   "main.aux"
   "main.log"
