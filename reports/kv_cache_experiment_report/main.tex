@@ -13,7 +13,7 @@
 \maketitle
 
 \begin{abstract}
-\noindent 本地 Agent 在长上下文的多轮交互中通常会反复提交系统指令、工具定义、代码摘要或文档片段，而重复的 prefill 会显著推高首 token 延迟（time to first token, TTFT）。
+本地 Agent 在长上下文的多轮交互中通常会反复提交系统指令、工具定义、代码摘要或文档片段，而重复的 prefill 会显著推高首 token 延迟（time to first token, TTFT）。
 为定量分析这一问题，本文测试了 \textbf{llama.cpp 本地服务中的 prompt/KV 缓存} 对 \textbf{coding agent 与 RAG agent} 的影响。
 实验在 Apple M5、32 GB unified memory、Qwen2.5-Coder-3B-Instruct Q4\_K\_M 与单并发配置下运行，覆盖 2K、4K、8K、16K prompt 长度、三类缓存策略、动态字段位置敏感性以及 \texttt{--cache-reuse} 的参数扫描。
 实验结果说明，\textbf{只在服务端打开缓存并不能保证 warm TTFT 改善}；如果动态字段位于 prompt 前部，缓存几乎无法发挥作用。

@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1778981322.83434 "main.aux" "main.bbl" "main" 1778981725.94276 0
+["bibtex main"] 1778981322.83434 "main.aux" "main.bbl" "main" 1778982428.21412 0
   "./references.bib" 1778981318.74436 2409 1fe3817a4244eba3cbc139ec4f791cf1 ""
   "/usr/local/texlive/2026/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "main.aux" 1778981725.46447 7680 148cef8152ab6e4d69c549387a76c14d "xelatex"
+  "main.aux" 1778982427.76279 7680 148cef8152ab6e4d69c549387a76c14d "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1778981725.64954 "main.xdv" "main.pdf" "main" 1778981725.94349 0
-  "main.xdv" 1778981725.46564 170132 6a71a37f736f389c6059f115b906c8b6 "xelatex"
+["xdvipdfmx"] 1778982427.92627 "main.xdv" "main.pdf" "main" 1778982428.21485 0
+  "main.xdv" 1778982427.764 170400 ca23f00f30fa028b1e97ed3bb2316e1d "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1778981724.70605 "main.tex" "main.xdv" "main" 1778981725.94282 0
+["xelatex"] 1778982427.05328 "main.tex" "main.xdv" "main" 1778982428.21418 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -124,6 +124,7 @@
   "/usr/local/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/siunitx/siunitx.sty" 1752176849 344221 f0c98c737eca26294f5039e8afde731f ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty" 1761946296 15651 9d7c62df82cb29a555c00550babfe364 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty" 1748806692 1618 30b01152766afcef2ed8f904cfdd3cc6 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty" 1748806692 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/tools/xspace.sty" 1748806692 4545 d7bb86d489a8ad5263e4c34304c03aee ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl" 1644096163 5588 0c1628daf15f4411ff1f463114c634a3 ""
@@ -136,17 +137,17 @@
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1776653617 5948564 19b82c1d861320b3a5fa124bda2a9e5f ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "config.tex" 1778832705.21165 4025 b34dd39b278e0c92f3ecaf20fe8295a3 ""
+  "config.tex" 1778982423.64905 4122 086b07946fb93ef31304a18605f8d538 ""
   "figures/report_cache_reuse_sweep.pdf" 1778898101.35572 31858 5ab1d8a91cecbd02c532c1eb772a20e4 ""
   "figures/report_layout_sensitivity_8k.pdf" 1778836960.9729 36535 3646eccb5713044c543e6ce40ce7d39e ""
   "figures/report_memory_by_strategy.pdf" 1778898302.18769 35078 931503c5a1e47250a270d43d10fbd306 ""
   "figures/report_speedup_by_length.pdf" 1778836960.9739 38484 384c7f85c2368f54fc8aea01a691d6d5 ""
   "figures/report_ttft_by_length.pdf" 1778836960.97438 39977 6da62009abb23a093a53343b8fc4dd8e ""
-  "main.aux" 1778981725.46447 7680 148cef8152ab6e4d69c549387a76c14d "xelatex"
+  "main.aux" 1778982427.76279 7680 148cef8152ab6e4d69c549387a76c14d "xelatex"
   "main.bbl" 1778981322.89756 1958 30a746e937648768947cb5102aa4ef8a "bibtex main"
-  "main.brf" 1778981725.4652 399 1689c79165c4d259f1b4665646e8f579 "xelatex"
-  "main.out" 1778981725.4651 1130 406fd701e7fd747889046f9ae75ee4c0 "xelatex"
-  "main.tex" 1778981720.97706 25814 b0b20142aba1928e3dbf09031133aea4 ""
+  "main.brf" 1778982427.76359 399 1689c79165c4d259f1b4665646e8f579 "xelatex"
+  "main.out" 1778982427.76351 1130 406fd701e7fd747889046f9ae75ee4c0 "xelatex"
+  "main.tex" 1778982315.54851 25798 c16d2a4194decf61071a9c327f69342a ""
   (generated)
   "main.aux"
   "main.brf"

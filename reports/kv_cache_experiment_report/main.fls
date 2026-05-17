@@ -150,6 +150,8 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption.sty

@@ -12,6 +12,7 @@
 \usepackage{balance}
 \usepackage{xspace}
 \usepackage{setspace}
+\usepackage{indentfirst}
 \usepackage[skip=3pt,font=small]{subcaption}
 \usepackage[skip=3pt,font=small]{caption}
 \usepackage[dvipsnames]{xcolor}
@@ -47,6 +48,8 @@
   {\large\bf 摘要}%
   \vspace{0.5ex}%
   \begin{quote}%
+  \setlength{\parindent}{2em}%
+  \leavevmode\hspace*{2em}\ignorespaces%
 }
 {
   \par%
@@ -94,7 +97,7 @@
 % Spacing
 \frenchspacing
 \setstretch{1}
-\setlength{\parindent}{0pt}
+\setlength{\parindent}{2em}
 \setlength{\parskip}{5.5pt}
 \makeatletter
 \renewcommand{\normalsize}{%
