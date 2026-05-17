@@ -1,10 +1,18 @@
 # Fdb version 4
-["xdvipdfmx"] 1778979626.213 "main.xdv" "main.pdf" "main" 1778979626.49139 0
-  "main.xdv" 1778979626.16808 146144 0e34ed38dd57cb1bf76529052a3a8fdb "xelatex"
+["bibtex main"] 1778981322.83434 "main.aux" "main.bbl" "main" 1778981324.09413 0
+  "./references.bib" 1778981318.74436 2409 1fe3817a4244eba3cbc139ec4f791cf1 ""
+  "/usr/local/texlive/2026/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
+  "main.aux" 1778981323.62726 7680 148cef8152ab6e4d69c549387a76c14d "xelatex"
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["xdvipdfmx"] 1778981323.7951 "main.xdv" "main.pdf" "main" 1778981324.09494 0
+  "main.xdv" 1778981323.62838 170084 bb2e36632041a4a3fddadd56e41d04ea "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1778979625.46516 "main.tex" "main.xdv" "main" 1778979626.49064 0
+["xelatex"] 1778981322.89947 "main.tex" "main.xdv" "main" 1778981324.09419 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -134,11 +142,14 @@
   "figures/report_memory_by_strategy.pdf" 1778898302.18769 35078 931503c5a1e47250a270d43d10fbd306 ""
   "figures/report_speedup_by_length.pdf" 1778836960.9739 38484 384c7f85c2368f54fc8aea01a691d6d5 ""
   "figures/report_ttft_by_length.pdf" 1778836960.97438 39977 6da62009abb23a093a53343b8fc4dd8e ""
-  "main.aux" 1778979626.16694 6623 ecbd085e48a178f75bff0f7c7a94219f "xelatex"
-  "main.out" 1778979626.16757 1130 406fd701e7fd747889046f9ae75ee4c0 "xelatex"
-  "main.tex" 1778979619.70607 25002 bb04ad2c73f26b588b3e8837172a4bdf ""
+  "main.aux" 1778981323.62726 7680 148cef8152ab6e4d69c549387a76c14d "xelatex"
+  "main.bbl" 1778981322.89756 1958 30a746e937648768947cb5102aa4ef8a "bibtex main"
+  "main.brf" 1778981323.62795 399 1689c79165c4d259f1b4665646e8f579 "xelatex"
+  "main.out" 1778981323.62787 1130 406fd701e7fd747889046f9ae75ee4c0 "xelatex"
+  "main.tex" 1778981140.99202 25796 be8657a6ec24c0b9bc43913147ef3880 ""
   (generated)
   "main.aux"
+  "main.brf"
   "main.log"
   "main.out"
   "main.xdv"

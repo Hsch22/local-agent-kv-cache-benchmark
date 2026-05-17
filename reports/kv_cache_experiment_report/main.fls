@@ -266,6 +266,17 @@ INPUT ./figures/report_cache_reuse_sweep.pdf
 INPUT ./figures/report_cache_reuse_sweep.pdf
 INPUT ./figures/report_memory_by_strategy.pdf
 INPUT ./figures/report_memory_by_strategy.pdf
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
+INPUT ./main.brf
+INPUT ./main.brf
+INPUT main.brf
+INPUT ./main.brf
+INPUT ./main.brf
+OUTPUT main.brf
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT ./main.brf
+INPUT ./main.brf

@@ -1,0 +1,6 @@
+\backcite {vaswani2017attention,kwon2023pagedattention}{{1}{2}{section.2}}
+\backcite {gim2024promptcache,zheng2024sglang,openai2026promptcaching}{{1}{2}{section.2}}
+\backcite {ggml2026llamaserver}{{2}{1}{table.caption.1}}
+\backcite {hui2024qwen25coder}{{2}{1}{table.caption.1}}
+\backcite {ggml2026llamaserver}{{3}{3.2}{subsection.3.2}}
+\backcite {openai2026promptcaching}{{5}{4.2}{table.caption.6}}

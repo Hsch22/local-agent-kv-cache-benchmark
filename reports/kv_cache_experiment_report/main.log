@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.20)  17 MAY 2026 09:00
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.20)  17 MAY 2026 09:28
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1230,21 +1230,52 @@ File: figures/report_cache_reuse_sweep.pdf Graphic file (type pdf)
 <use figures/report_cache_reuse_sweep.pdf>
 File: figures/report_memory_by_strategy.pdf Graphic file (type pdf)
 <use figures/report_memory_by_strategy.pdf>
- [5] [6] [7] (./main.aux)
+ [5] [6] (./main.bbl (./main.brf)
+\tf@brf=\write4
+\openout4 = `main.brf'.
+
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/TimesNewRoman(0)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/TimesNewRoman(0)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/TimesNewRoman(0)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/TimesNewRoman(0)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/TimesNewRoman(0)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/TimesNewRoman(0)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\TU/TimesNewRoman(0)/m/n/10 OpenAI.  Prompt caching.  [][]$[][][][][] [] [] [
+] [][][][][][][][][][] [] [][][][][][] [] [][][] [] [][][] [] [][][][] [] [][][
+][][][] []
+ []
+
+) [7] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 406FD701E7FD747889046F9AE75EE4C0;1130.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: 1689C79165C4D259F1B4665646E8F579;399.
  ) 
 Here is how much of TeX's memory you used:
- 25199 strings out of 468168
- 557384 string characters out of 5432815
- 1017067 words of memory out of 5000000
- 53570 multiletter control sequences out of 15000+600000
- 636663 words of font info for 146 fonts, out of 8000000 for 9000
+ 25247 strings out of 468168
+ 558400 string characters out of 5432815
+ 1018067 words of memory out of 5000000
+ 53611 multiletter control sequences out of 15000+600000
+ 636671 words of font info for 147 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,20n,97p,1001b,1012s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,20n,97p,1001b,1003s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (7 pages, 146144 bytes).
+Output written on main.xdv (7 pages, 170084 bytes).

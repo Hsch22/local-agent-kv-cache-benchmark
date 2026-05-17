@@ -1,0 +1,50 @@
+\begin{thebibliography}{1}
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em NeurIPS}, volume~30, 2017.
+
+\bibitem{kwon2023pagedattention}
+Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody~Hao Yu,
+  Joseph~E. Gonzalez, Hao Zhang, and Ion Stoica.
+\newblock Efficient memory management for large language model serving with
+  pagedattention.
+\newblock In {\em SOSP}, pages 611--626, 2023.
+
+\bibitem{gim2024promptcache}
+In~Gim, Guojun Chen, Seung-seob Lee, Nikhil Sarda, Anurag Khandelwal, and Lin
+  Zhong.
+\newblock Prompt cache: Modular attention reuse for low-latency inference.
+\newblock {\em MLSys}, 6, 2024.
+
+\bibitem{zheng2024sglang}
+Lianmin Zheng, Liangsheng Yin, Zhiqiang Xie, Chuyue Sun, Jeff Huang, Cody~Hao
+  Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph~E. Gonzalez, Clark
+  Barrett, and Ying Sheng.
+\newblock Sglang: Efficient execution of structured language model programs.
+\newblock In {\em NeurIPS}, volume~37, 2024.
+
+\bibitem{openai2026promptcaching}
+{OpenAI}.
+\newblock Prompt caching.
+\newblock \url{https://developers.openai.com/api/docs/guides/prompt-caching}.
+\newblock Accessed 2026-05-17.
+
+\bibitem{ggml2026llamaserver}
+{ggml.org}.
+\newblock {llama-server - llama.cpp}.
+\newblock
+  \url{https://www.mintlify.com/ggml-org/llama.cpp/api/tools/llama-server}.
+\newblock Accessed 2026-05-17.
+
+\bibitem{hui2024qwen25coder}
+Binyuan Hui, Jian Yang, Zeyu Cui, Jiaxi Yang, Dayiheng Liu, Lei Zhang, Tianyu
+  Liu, Jiajun Zhang, Bowen Yu, Keming Lu, Kai Dang, Yang Fan, Yichang Zhang,
+  An~Yang, Rui Men, Fei Huang, Bo~Zheng, Yibo Miao, Shanghaoran Quan, Yunlong
+  Feng, Xingzhang Ren, Xuancheng Ren, Jingren Zhou, and Junyang Lin.
+\newblock {Qwen2.5-Coder} technical report.
+\newblock {\em arXiv preprint arXiv:2409.12186}, 2024.
+
+\end{thebibliography}
