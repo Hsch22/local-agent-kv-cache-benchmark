@@ -1,0 +1,16 @@
+.DS_Store
+.venv/
+.uv-cache/
+.hf-cache/
+__pycache__/
+*.pyc
+
+models/*.gguf
+models/.cache/
+logs/*.log
+results/raw/*.csv
+results/summary/*.csv
+results/figures/*.png
+results/.matplotlib/
+results/.cache/
+workloads/*.jsonl

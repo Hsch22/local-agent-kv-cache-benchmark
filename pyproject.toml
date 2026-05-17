@@ -1,0 +1,19 @@
+[project]
+name = "local-agent-kv-cache-benchmark"
+version = "0.1.0"
+description = "Local LLM agent prompt/KV cache benchmark tooling."
+requires-python = ">=3.11"
+dependencies = [
+    "hf-xet>=1.2.0",
+    "huggingface-hub>=1.0.0",
+    "matplotlib>=3.9.0",
+    "openai>=1.0.0",
+    "pandas>=2.2.0",
+    "psutil>=5.9.0",
+    "requests>=2.31.0",
+    "seaborn>=0.13.0",
+    "tqdm>=4.66.0",
+]
+
+[tool.uv]
+package = false
